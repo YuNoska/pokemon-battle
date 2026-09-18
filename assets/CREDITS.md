@@ -31,3 +31,6 @@
 | samurott-hisui.png | 10236 | ヒスイダイケンキ |
 | pelipper.png | 279 | ペリッパー |
 | basculegion.png | 902 | イダイトウ |
+| absol.png | 359 | アブソル（2026-09-18追加） |
+| rillaboom.png | 812 | ゴリランダー（2026-09-18追加） |
+| corviknight.png | 823 | アーマーガア（2026-09-18追加） |
