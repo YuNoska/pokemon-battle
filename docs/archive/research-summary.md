@@ -1,8 +1,11 @@
 # 共有調査の整理・原案の記録
 
+> 過去資料。現在構築する6匹は[ドヒドイデ構築](../toxapex-cycle.md)。このページの「推奨」は作成当時の内容です。
+
+
 **性格の表記：↑＝上がりやすい能力、↓＝上がりにくい能力。**
 
-[トップへ](../README.md)
+[トップへ](../../README.md)
 
 原資料：[共有会話「ポケモンパーティ提案」](https://chatgpt.com/share/6aa95738-ba9c-83e9-84e5-514de5e5e00a)。2026-09-15に読めた回答を整理。会話中の調査基準日は2026-09-13です。
 
@@ -18,7 +21,7 @@
 
 ## 最終原案の固定記録
 
-以下を初期値として保存します。今後の変更は [現行パーティー](current-team.md) に反映し、この表は原案として残します。能力ポイント順は **H-A-B-C-D-S**。
+以下を初期値として保存します。今後の変更は [現行パーティー](current-team-v2.md) に反映し、この表は原案として残します。能力ポイント順は **H-A-B-C-D-S**。
 
 | 名前 | 性格／持ち物 | 能力ポイント | 技 |
 | --- | --- | --- | --- |
@@ -31,7 +34,7 @@
 
 ## 一つ前の公開案との違い
 
-![ギルガルド](../assets/sprites/aegislash.png) ![ウォッシュロトム](../assets/sprites/rotom-wash.png) → ![サーフゴー](../assets/sprites/gholdengo.png) ![ヒートロトム](../assets/sprites/rotom-heat.png)
+![ギルガルド](../../assets/sprites/aegislash.png) ![ウォッシュロトム](../../assets/sprites/rotom-wash.png) → ![サーフゴー](../../assets/sprites/gholdengo.png) ![ヒートロトム](../../assets/sprites/rotom-heat.png)
 
 公開チームID **6T3J4Q1JBN** は共有会話に載っていた旧案のIDです。現在も利用できるか、公開者が更新していないかは未確認。
 
@@ -46,7 +49,7 @@
 
 ## 別候補：フラエッテ＋マフォクシー
 
-![フラエッテ](../assets/sprites/floette-eternal.png) ![マフォクシー](../assets/sprites/delphox.png) ![ハッサム](../assets/sprites/scizor.png)
+![フラエッテ](../../assets/sprites/floette-eternal.png) ![マフォクシー](../../assets/sprites/delphox.png) ![ハッサム](../../assets/sprites/scizor.png)
 
 共有会話に記載された公開チームID：**2M2GXU199S**（現時点の有効性未確認）。
 

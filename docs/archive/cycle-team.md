@@ -1,11 +1,14 @@
 # サイクル要素を重視する調整案
 
+> 過去資料。現在構築する6匹は[ドヒドイデ構築](../toxapex-cycle.md)。このページの「推奨」は作成当時の内容です。
+
+
 **2026-09-18／M-Cシングル／独自の試験案・実戦未検証**  
 [候補比較へ](team-candidates-2026-09-18.md) ｜ [現行設定へ](current-team-v1.md)
 
 ## 今回のおすすめ
 
-**履歴用：現在の推奨は[所持ポケモンから再構築したv2.0](current-team.md)。** 以下は変更前の比較用です。
+**履歴用：現在の推奨は[所持ポケモンから再構築したv2.0](current-team-v2.md)。** 以下は変更前の比較用です。
 
 **グソクムシャ／ヒートロトム／カバルドン／ボーマンダ／アシレーヌ／サーフゴー。**
 
@@ -13,12 +16,12 @@
 
 | 攻撃して交代 | 高速で交代 | 回復する受け先 |
 | :---: | :---: | :---: |
-| ![グソクムシャ](../assets/sprites/golisopod.png) | ![ヒートロトム](../assets/sprites/rotom-heat.png) | ![カバルドン](../assets/sprites/hippowdon.png) |
+| ![グソクムシャ](../../assets/sprites/golisopod.png) | ![ヒートロトム](../../assets/sprites/rotom-heat.png) | ![カバルドン](../../assets/sprites/hippowdon.png) |
 | とんぼがえり・きゅうけつ | ボルトチェンジ | なまける・ゴツメ |
-| ![ボーマンダ](../assets/sprites/salamence.png) | ![アシレーヌ](../assets/sprites/primarina.png) | ![サーフゴー](../assets/sprites/gholdengo.png) |
+| ![ボーマンダ](../../assets/sprites/salamence.png) | ![アシレーヌ](../../assets/sprites/primarina.png) | ![サーフゴー](../../assets/sprites/gholdengo.png) |
 | はねやすめ・終盤のエース | クイックターン | じこさいせい・崩し |
 
-画像は通常姿の識別用。[出典](../assets/CREDITS.md)
+画像は通常姿の識別用。[出典](../../assets/CREDITS.md)
 
 ## 6匹の試験設定
 

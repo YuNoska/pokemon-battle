@@ -1,6 +1,6 @@
 # v2.0の速度・火力確認
 
-[育成表](../docs/current-team.md) ｜ 2026-09-18
+[育成表](../docs/archive/current-team-v2.md) ｜ 2026-09-18
 
 ## 計算条件
 

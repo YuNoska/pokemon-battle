@@ -1,11 +1,14 @@
 # 勝率改善に向けたパーティー候補
 
+> 過去資料。現在構築する6匹は[ドヒドイデ構築](../toxapex-cycle.md)。このページの「推奨」は作成当時の内容です。
+
+
 **2026-09-18調査／チャンピオンズ・シングル／M-C**  
-[トップへ](../README.md) ｜ [現行構築](current-team-v1.md) ｜ [対戦記録](battle-log.md)
+[トップへ](../../README.md) ｜ [現行構築](current-team-v1.md) ｜ [対戦記録](../battle-log.md)
 
 ## おすすめの順番
 
-**履歴用：所持写真と敗戦報告を踏まえ、現在の推奨は[v2.0](current-team.md)です。** 以下のA～Cは比較用に残します。
+**履歴用：所持写真と敗戦報告を踏まえ、現在の推奨は[v2.0](current-team-v2.md)です。** 以下のA～Cは比較用に残します。
 
 **まず候補Aをレンタルで試すのがおすすめ。** 勝ち筋が「カバルドンで準備→ボーマンダでりゅうのまい」と明確で、現行から4匹を残せます。6匹を変えたくない場合は候補B。カバルドンや水タイプを攻撃で押したい場合は候補Cです。
 
@@ -32,9 +35,9 @@
 
 | エース | 準備役 | 攻撃・補完 |
 | :---: | :---: | :---: |
-| ![ボーマンダ](../assets/sprites/salamence.png) | ![カバルドン](../assets/sprites/hippowdon.png) | ![ギルガルド](../assets/sprites/aegislash.png) |
+| ![ボーマンダ](../../assets/sprites/salamence.png) | ![カバルドン](../../assets/sprites/hippowdon.png) | ![ギルガルド](../../assets/sprites/aegislash.png) |
 | ボーマンダ | カバルドン | ギルガルド |
-| ![グソクムシャ](../assets/sprites/golisopod.png) | ![アシレーヌ](../assets/sprites/primarina.png) | ![サーフゴー](../assets/sprites/gholdengo.png) |
+| ![グソクムシャ](../../assets/sprites/golisopod.png) | ![アシレーヌ](../../assets/sprites/primarina.png) | ![サーフゴー](../../assets/sprites/gholdengo.png) |
 | 別のメガ枠 | 水・妖の攻撃役 | 耐久構築への選択肢 |
 
 **公開者：HoshinJosh／2026-09-15公開。レンタルID：`ER9UVPP1D1`。** 動画説明で確認済み。ゲーム内で現在も借りられるかは未確認です。[原動画](https://www.youtube.com/watch?v=1mwa0OBHoWE)／[6匹の掲載ページ](https://pokemonchampionsreplicateams.com/teams/1-mega-salamence-team-salamence-hippowdon-aegislash-golisopod-primarina-gholdengo-er9uvpp1d1)
@@ -63,7 +66,7 @@
 
 ## B：今の6匹を維持し、先制技と交代を増やす【独自の試験案】
 
-![グソクムシャ](../assets/sprites/golisopod.png) ![ボーマンダ](../assets/sprites/salamence.png) ![ヒートロトム](../assets/sprites/rotom-heat.png) ![ガブリアス](../assets/sprites/garchomp.png) ![アシレーヌ](../assets/sprites/primarina.png) ![サーフゴー](../assets/sprites/gholdengo.png)
+![グソクムシャ](../../assets/sprites/golisopod.png) ![ボーマンダ](../../assets/sprites/salamence.png) ![ヒートロトム](../../assets/sprites/rotom-heat.png) ![ガブリアス](../../assets/sprites/garchomp.png) ![アシレーヌ](../../assets/sprites/primarina.png) ![サーフゴー](../../assets/sprites/gholdengo.png)
 
 **海外サイトの使用傾向を参考に、現行6匹向けに組み直した案。公開レンタルのコピーではなく、対戦実績・レンタルIDはありません。**
 
@@ -96,9 +99,9 @@
 
 | 主な攻撃役 | 終盤の攻撃役 | 物理へのクッション |
 | :---: | :---: | :---: |
-| ![ゴリランダー](../assets/sprites/rillaboom.png) | ![アブソル](../assets/sprites/absol.png) | ![アーマーガア](../assets/sprites/corviknight.png) |
+| ![ゴリランダー](../../assets/sprites/rillaboom.png) | ![アブソル](../../assets/sprites/absol.png) | ![アーマーガア](../../assets/sprites/corviknight.png) |
 | ゴリランダー | メガアブソルZ | アーマーガア |
-| ![ガブリアス](../assets/sprites/garchomp.png) | ![アシレーヌ](../assets/sprites/primarina.png) | ![サーフゴー](../assets/sprites/gholdengo.png) |
+| ![ガブリアス](../../assets/sprites/garchomp.png) | ![アシレーヌ](../../assets/sprites/primarina.png) | ![サーフゴー](../../assets/sprites/gholdengo.png) |
 | 削り・展開補助 | グラスシード | ふうせん |
 
 **公開者：SplashPlate／2026-09-10公開。** 原動画のシングル構築です。[原動画](https://www.youtube.com/watch?v=VFqRocfjhvc)／[6匹の掲載ページ](https://pokemonchampionsreplicateams.com/teams/splashplate-s-absol-z-singles-t0pl306nht)
@@ -125,7 +128,7 @@
 
 ## 試すときの判断基準
 
-1. **Aを同じレンタルのまままず10～20戦。** 相手6匹、自分と相手の選出、敗因を[対戦記録](battle-log.md)へ。これは感触を見る試用で、少数戦の勝率を強さの証明にはしない。
+1. **Aを同じレンタルのまままず10～20戦。** 相手6匹、自分と相手の選出、敗因を[対戦記録](../battle-log.md)へ。これは感触を見る試用で、少数戦の勝率を強さの証明にはしない。
 2. 敗因を「選出で受けられない」「積む前に倒れる」「火力不足」「速度不足」「技・型の読み違い」に分ける。
 3. Aで苦手が残る場合、BまたはCを同程度の条件で試す。負けるたびに全員を入れ替えず、何を改善したいかを決める。
 4. 現行v1.0は比較用に残し、採用が決まってから育成表・相手別ガイドを更新する。
@@ -139,4 +142,4 @@
 | [HoshinJosh原動画](https://www.youtube.com/watch?v=1mwa0OBHoWE) | Aの構成、説明欄のID、冒頭の設計説明 | 公開者の評価と客観的な成績は別 |
 | [SplashPlate原動画](https://www.youtube.com/watch?v=VFqRocfjhvc) | Cの構成、冒頭の型説明、シングルでの使用 | シーズン序盤の試験構築 |
 
-画像は識別用の通常姿です。メガ後のタイプ・姿の図ではありません。[画像出典](../assets/CREDITS.md)
+画像は識別用の通常姿です。メガ後のタイプ・姿の図ではありません。[画像出典](../../assets/CREDITS.md)

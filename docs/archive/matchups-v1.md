@@ -1,8 +1,11 @@
-> 旧v1.0向けの保存版。最新は[推奨v2.0のガイド](matchups.md)。
+> 旧v1.0向けの保存版。最新は[推奨v2.0のガイド](matchups-v2.md)。
+
+> 過去資料。現在構築する6匹は[ドヒドイデ構築](../toxapex-cycle.md)。このページの「推奨」は作成当時の内容です。
+
 
 # 相手構築別の対戦ガイド
 
-[トップへ](../README.md) ｜ [育成設定](current-team-v1.md)
+[トップへ](../../README.md) ｜ [育成設定](current-team-v1.md)
 
 **対象：現行案 v1.0／2026-09-15。選出・立ち回りは実戦未検証の運用仮説です。**
 
@@ -23,7 +26,7 @@
 
 ## 1. カバルドン＋ボーマンダ：展開を無料で許さない
 
-![カバルドン](../assets/sprites/hippowdon.png) ![ボーマンダ](../assets/sprites/salamence.png) ![サーフゴー](../assets/sprites/gholdengo.png)
+![カバルドン](../../assets/sprites/hippowdon.png) ![ボーマンダ](../../assets/sprites/salamence.png) ![サーフゴー](../../assets/sprites/gholdengo.png)
 
 **確認できた相手の例**：公開記事の基本選出はカバルドン＋メガボーマンダ＋サーフゴー。別選出にキラフロル＋アシレーヌ＋メガルカリオZも掲載されています。[公開構築](https://gamewith.jp/pokemon-champions/555537)
 
@@ -36,7 +39,7 @@
 
 ## 2. メガグソクムシャ：炎を撃つ前の状況を作る
 
-![グソクムシャ](../assets/sprites/golisopod.png) ![アシレーヌ](../assets/sprites/primarina.png) ![ガブリアス](../assets/sprites/garchomp.png)
+![グソクムシャ](../../assets/sprites/golisopod.png) ![アシレーヌ](../../assets/sprites/primarina.png) ![ガブリアス](../../assets/sprites/garchomp.png)
 
 **想定コア**：メガグソクムシャ＋アシレーヌ／ウォッシュロトム＋ガブリアス。共有会話の公開構築や同時採用を意識した練習用の想定です。
 
@@ -49,7 +52,7 @@
 
 ## 3. メガルカリオZ：スカーフとタスキを先に消費しない
 
-![ルカリオ](../assets/sprites/lucario.png) ![カバルドン](../assets/sprites/hippowdon.png) ![アシレーヌ](../assets/sprites/primarina.png)
+![ルカリオ](../../assets/sprites/lucario.png) ![カバルドン](../../assets/sprites/hippowdon.png) ![アシレーヌ](../../assets/sprites/primarina.png)
 
 **想定コア**：ルカリオZ＋カバルドン等の起点作り＋アシレーヌ。通常メガかZかで相手の速さ・受け方が変わります。
 
@@ -62,7 +65,7 @@
 
 ## 4. メガムクホーク＋壁：この6匹の重点課題
 
-![ムクホーク](../assets/sprites/staraptor.png) ![アローラキュウコン](../assets/sprites/ninetales-alola.png) ![サザンドラ](../assets/sprites/hydreigon.png)
+![ムクホーク](../../assets/sprites/staraptor.png) ![アローラキュウコン](../../assets/sprites/ninetales-alola.png) ![サザンドラ](../../assets/sprites/hydreigon.png)
 
 **想定コア**：共有会話の過去案にあるキュウコン＋ムクホーク＋サザンドラ。現時点の流行上位と断定した並びではありません。
 
@@ -75,7 +78,7 @@
 
 ## 5. メガフラエッテ＋交代技：鋼役と炎役を分担
 
-![フラエッテ](../assets/sprites/floette-eternal.png) ![ハッサム](../assets/sprites/scizor.png) ![ウォッシュロトム](../assets/sprites/rotom-wash.png)
+![フラエッテ](../../assets/sprites/floette-eternal.png) ![ハッサム](../../assets/sprites/scizor.png) ![ウォッシュロトム](../../assets/sprites/rotom-wash.png)
 
 **想定コア**：共有会話の別候補・フラエッテ＋ハッサム＋ヒスイダイケンキ。ロトムやマフォクシーへの選出変更も考える。
 
@@ -87,7 +90,7 @@
 
 ## 6. 耐久・状態異常：崩す相手を先に決める
 
-![ラウドボーン](../assets/sprites/skeledirge.png) ![ウォッシュロトム](../assets/sprites/rotom-wash.png)
+![ラウドボーン](../../assets/sprites/skeledirge.png) ![ウォッシュロトム](../../assets/sprites/rotom-wash.png)
 
 **想定**：回復技・状態異常・物理受けを組み合わせた構築。特定の公開6匹を指すものではありません。
 
@@ -99,7 +102,7 @@
 
 ## 7. 雨構築：水の受け先不足を意識する
 
-![ペリッパー](../assets/sprites/pelipper.png) ![イダイトウ](../assets/sprites/basculegion.png)
+![ペリッパー](../../assets/sprites/pelipper.png) ![イダイトウ](../../assets/sprites/basculegion.png)
 
 **想定コア**：ペリッパー＋雨で速くなる水アタッカー。流行順位を確認した並びではなく、この構築の弱点を試すための想定です。
 

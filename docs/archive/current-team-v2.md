@@ -1,12 +1,15 @@
 # 推奨パーティー v2.0 — ゴリランダー＋ルカリオZ
 
+> 過去資料。現在構築する6匹は[ドヒドイデ構築](../toxapex-cycle.md)。このページの「推奨」は作成当時の内容です。
+
+
 **2026-09-18／チャンピオンズ・M-Cシングル／所持ポケモンから再構築**
 
-[トップ](../README.md) ｜ [選出ガイド](matchups.md) ｜ [計算条件](../reports/2026-09-18-damage-checks.md) ｜ [旧v1.0](current-team-v1.md)
+[トップ](../../README.md) ｜ [選出ガイド](matchups-v2.md) ｜ [計算条件](../../reports/2026-09-18-damage-checks.md) ｜ [旧v1.0](current-team-v1.md)
 
 ## おすすめの6匹
 
-**最新の推奨は[ブラッキー入りの3案](recovery-options.md)。第一候補はブラッキー＋メガグソクムシャの案Aです。各案に6匹全員の設定を掲載。** 以下のv2.0は変更前の比較用です。
+**最新の推奨は[ブラッキー入りの3案](../recovery-options.md)。第一候補はブラッキー＋メガグソクムシャの案Aです。各案に6匹全員の設定を掲載。** 以下のv2.0は変更前の比較用です。
 
 **ボーマンダ／ルカリオ／ゴリランダー／アシレーヌ／ヒートロトム／サーフゴー。**
 
@@ -16,12 +19,12 @@
 
 | 高速特殊エース | 先制技・交代 | 水・ドラゴンへの対応 |
 | :---: | :---: | :---: |
-| ![ルカリオ](../assets/sprites/lucario.png) | ![ゴリランダー](../assets/sprites/rillaboom.png) | ![アシレーヌ](../assets/sprites/primarina.png) |
+| ![ルカリオ](../../assets/sprites/lucario.png) | ![ゴリランダー](../../assets/sprites/rillaboom.png) | ![アシレーヌ](../../assets/sprites/primarina.png) |
 | メガルカリオZ | ゴリランダー | アシレーヌ |
-| ![ボーマンダ](../assets/sprites/salamence.png) | ![ヒートロトム](../assets/sprites/rotom-heat.png) | ![サーフゴー](../assets/sprites/gholdengo.png) |
+| ![ボーマンダ](../../assets/sprites/salamence.png) | ![ヒートロトム](../../assets/sprites/rotom-heat.png) | ![サーフゴー](../../assets/sprites/gholdengo.png) |
 | 別メガ・物理エース | スカーフ・炎打点 | 耐久崩し・回復 |
 
-画像は通常姿の識別用。[出典](../assets/CREDITS.md)
+画像は通常姿の識別用。[出典](../../assets/CREDITS.md)
 
 ## 育成設定
 
@@ -47,7 +50,7 @@
 
 ### 写真の個体から変更する箇所
 
-- **採用6種はすべて添付JPEG内で所持を確認。** 選択されていない個体の配分・技・特性、持ち物とメガストーンの所持は未確認。[確認メモ](owned-pokemon.md)
+- **採用6種はすべて添付JPEG内で所持を確認。** 選択されていない個体の配分・技・特性、持ち物とメガストーンの所持は未確認。[確認メモ](../owned-pokemon.md)
 - **サーフゴー**：写真のH32/C26/D8、能力補正、4技、特性をそのまま採用。写真の実数値はHP194・特攻196・特防119・素早さ104。
 - **ヒートロトム**：写真のH2/C32/S32と能力補正・特性を維持。**おにび→トリック**に変更。スカーフ所持を設定画面で確認する。
 - **ゴリランダー**：グラスメイカーが必須。しんりょくのままでは、自力で先制グラススライダーを使う設計が成立しない。
@@ -67,14 +70,14 @@
 
 通常は**ルカリオZ＋ゴリランダー＋アシレーヌ**から検討。報告された相手の6匹には**ゴリランダー＋ヒートロトム＋ルカリオZ**を対策選出の出発点にします。相手マンダが特に重いと判断したら、ロトムかルカリオをアシレーヌへ。メガ2匹は基本同時選出しません。
 
-詳しい初手分岐は[相手別ガイド](matchups.md)へ。
+詳しい初手分岐は[相手別ガイド](matchups-v2.md)へ。
 
 ## 根拠
 
 - [Serebii・9/13公開のルカリオ考察](https://www.serebii.net/potw-champions/448.shtml)のシングル部分は、ルカリオZの相方にゴリランダー・アシレーヌを挙げ、メガ2枠の相方としてボーマンダにも言及。今回の軸の参考にしました。記事の完成構築のコピーではありません。
 - [Pokémon Zone・M-Cシングル集計](https://www.pokemon-zone.com/champions/ranked-seasons/singles/)で主要技の採用を確認。単体採用率をこの6匹の勝率として扱いません。
 - [ルカリオZの特性・型](https://gamewith.jp/pokemon-champions/574490)、[ゴリランダーの習得技](https://www.serebii.net/pokedex-champions/rillaboom/)、[アシレーヌのChampions技一覧](https://www.smogon.com/dex/champions/pokemon/primarina/)も参照。
-- [速度・火力を条件付きで確認](../reports/2026-09-18-damage-checks.md)。実戦勝率は未検証。
+- [速度・火力を条件付きで確認](../../reports/2026-09-18-damage-checks.md)。実戦勝率は未検証。
 
 ## 残る弱点
 
