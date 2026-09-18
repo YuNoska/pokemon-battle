@@ -36,3 +36,8 @@
 - [カバルドン・M-6シングル](https://champs.pokedb.tokyo/pokemon/show/0450-00?season=6&rule=0)：なまける・あくび・ステロ、配分・同時採用を確認。
 - [ブラッキー・M-6シングル](https://champs.pokedb.tokyo/pokemon/show/0197-00?season=6&rule=0)：ねがいごと・まもる等の採用、配分・同時採用を確認。
 - 9/18閲覧時の数値は[回復役の比較](recovery-options.md)に記録。最終集計時刻は未確認。技単体の採用率をセットや構築の勝率と混同しない。
+
+## 2026-09-18追加：ブラッキー入り3案
+
+- [グソクムシャ・M-6シングル](https://champs.pokedb.tokyo/pokemon/show/0768-00?season=6&rule=0)：ブラウザーで技・HA系配分・同時採用を確認。掲載値は[比較ページ](recovery-options.md)に記録。
+- [Serebiiのグソクムシャ](https://www.serebii.net/pokedex-champions/golisopod/)／[ブラッキー](https://www.serebii.net/pokedex-champions/umbreon/)：Championsの技とメガ後特性を確認。採用6匹の組み合わせ自体は独自の未検証案。
