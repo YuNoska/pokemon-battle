@@ -5,7 +5,7 @@
 
 **2026-09-19／チャンピオンズ・M-Cシングル／独自案・実戦未検証**
 
-[3案の比較](recovery-options.md) ｜ [トップ](../README.md)
+[公開ルカリオZ構築・レンタルIDとの比較](lucario-public-teams.md) ｜ [ブラッキー3案の比較](recovery-options.md) ｜ [トップ](../README.md)
 
 ## 6匹の全設定
 
