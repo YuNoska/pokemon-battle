@@ -29,6 +29,10 @@
 - [Elninos公開レンタル](https://op.gg/pokemon-champions/replica-teams/4LY3DHALJ4)：9/16投稿、全6匹のポイント・技・IDを英語表示でも照合。タイトルのChampion Tierは投稿者申告で未検証。
 - [aoiの8連勝構築](https://pokesol.app/u/aoi_pokemon227/articles/d7b7bf3134b37e3d)：9/10公開。初期版の全6匹設定、改良追記、ID未掲載を確認。
 
+## 2026-09-19：種族値比較
+
+[種族値グラフと形態別の出典](base-stats.md)。M-6シングルのサイト表示20:42更新の順位を使用。SerebiiのChampions図鑑21ページから33形態の種族値・合計を確認し、[元データ](../data/base-stats-m6-2026-09-19.json)に保存。使用率順位は種族単位で、メガ形態別の順位ではありません。
+
 ## 過去の調査で参照した出典
 
 

@@ -1,0 +1,578 @@
+{
+  "checked_date": "2026-09-19",
+  "ranking_updated": "2026/9/19 20:42（サイト表示）",
+  "format": "M-6（M-C）シングル",
+  "ranking_source": "https://champs.pokedb.tokyo/pokemon/list?season=6&rule=0",
+  "stat_order": [
+    "HP",
+    "攻撃",
+    "防御",
+    "特攻",
+    "特防",
+    "素早さ"
+  ],
+  "selection": "使用率上位20種＋ウルガモス28位。メガ・ブレードは別図。順位は種族の順位で形態別ではない。",
+  "rows": [
+    {
+      "rank": 1,
+      "name": "ボーマンダ",
+      "form": "通常",
+      "slug": "salamence",
+      "stats": [
+        95,
+        135,
+        80,
+        110,
+        80,
+        100
+      ],
+      "total": 600,
+      "source": "https://www.serebii.net/pokedex-champions/salamence/",
+      "group": "base"
+    },
+    {
+      "rank": 1,
+      "name": "ボーマンダ",
+      "form": "メガ",
+      "slug": "salamence",
+      "stats": [
+        95,
+        145,
+        130,
+        120,
+        90,
+        120
+      ],
+      "total": 700,
+      "source": "https://www.serebii.net/pokedex-champions/salamence/",
+      "group": "alternate"
+    },
+    {
+      "rank": 2,
+      "name": "ガブリアス",
+      "form": "通常",
+      "slug": "garchomp",
+      "stats": [
+        108,
+        130,
+        95,
+        80,
+        85,
+        102
+      ],
+      "total": 600,
+      "source": "https://www.serebii.net/pokedex-champions/garchomp/",
+      "group": "base"
+    },
+    {
+      "rank": 2,
+      "name": "ガブリアス",
+      "form": "メガ",
+      "slug": "garchomp",
+      "stats": [
+        108,
+        170,
+        115,
+        120,
+        95,
+        92
+      ],
+      "total": 700,
+      "source": "https://www.serebii.net/pokedex-champions/garchomp/",
+      "group": "alternate"
+    },
+    {
+      "rank": 2,
+      "name": "ガブリアス",
+      "form": "メガZ",
+      "slug": "garchomp",
+      "stats": [
+        108,
+        130,
+        85,
+        141,
+        85,
+        151
+      ],
+      "total": 700,
+      "source": "https://www.serebii.net/pokedex-champions/garchomp/",
+      "group": "alternate"
+    },
+    {
+      "rank": 3,
+      "name": "アシレーヌ",
+      "form": "通常",
+      "slug": "primarina",
+      "stats": [
+        80,
+        74,
+        74,
+        126,
+        116,
+        60
+      ],
+      "total": 530,
+      "source": "https://www.serebii.net/pokedex-champions/primarina/",
+      "group": "base"
+    },
+    {
+      "rank": 4,
+      "name": "カバルドン",
+      "form": "通常",
+      "slug": "hippowdon",
+      "stats": [
+        108,
+        112,
+        118,
+        68,
+        72,
+        47
+      ],
+      "total": 525,
+      "source": "https://www.serebii.net/pokedex-champions/hippowdon/",
+      "group": "base"
+    },
+    {
+      "rank": 5,
+      "name": "グソクムシャ",
+      "form": "通常",
+      "slug": "golisopod",
+      "stats": [
+        75,
+        125,
+        140,
+        60,
+        90,
+        40
+      ],
+      "total": 530,
+      "source": "https://www.serebii.net/pokedex-champions/golisopod/",
+      "group": "base"
+    },
+    {
+      "rank": 5,
+      "name": "グソクムシャ",
+      "form": "メガ",
+      "slug": "golisopod",
+      "stats": [
+        75,
+        150,
+        175,
+        70,
+        120,
+        40
+      ],
+      "total": 630,
+      "source": "https://www.serebii.net/pokedex-champions/golisopod/",
+      "group": "alternate"
+    },
+    {
+      "rank": 6,
+      "name": "セグレイブ",
+      "form": "通常",
+      "slug": "baxcalibur",
+      "stats": [
+        115,
+        145,
+        92,
+        75,
+        86,
+        87
+      ],
+      "total": 600,
+      "source": "https://www.serebii.net/pokedex-champions/baxcalibur/",
+      "group": "base"
+    },
+    {
+      "rank": 6,
+      "name": "セグレイブ",
+      "form": "メガ",
+      "slug": "baxcalibur",
+      "stats": [
+        115,
+        175,
+        117,
+        105,
+        101,
+        87
+      ],
+      "total": 700,
+      "source": "https://www.serebii.net/pokedex-champions/baxcalibur/",
+      "group": "alternate"
+    },
+    {
+      "rank": 7,
+      "name": "ルカリオ",
+      "form": "通常",
+      "slug": "lucario",
+      "stats": [
+        70,
+        110,
+        70,
+        115,
+        70,
+        90
+      ],
+      "total": 525,
+      "source": "https://www.serebii.net/pokedex-champions/lucario/",
+      "group": "base"
+    },
+    {
+      "rank": 7,
+      "name": "ルカリオ",
+      "form": "メガ",
+      "slug": "lucario",
+      "stats": [
+        70,
+        145,
+        88,
+        140,
+        70,
+        112
+      ],
+      "total": 625,
+      "source": "https://www.serebii.net/pokedex-champions/lucario/",
+      "group": "alternate"
+    },
+    {
+      "rank": 7,
+      "name": "ルカリオ",
+      "form": "メガZ",
+      "slug": "lucario",
+      "stats": [
+        70,
+        100,
+        70,
+        164,
+        70,
+        151
+      ],
+      "total": 625,
+      "source": "https://www.serebii.net/pokedex-champions/lucario/",
+      "group": "alternate"
+    },
+    {
+      "rank": 8,
+      "name": "ブリジュラス",
+      "form": "通常",
+      "slug": "archaludon",
+      "stats": [
+        90,
+        105,
+        130,
+        125,
+        65,
+        85
+      ],
+      "total": 600,
+      "source": "https://www.serebii.net/pokedex-champions/archaludon/",
+      "group": "base"
+    },
+    {
+      "rank": 9,
+      "name": "サーフゴー",
+      "form": "通常",
+      "slug": "gholdengo",
+      "stats": [
+        87,
+        60,
+        95,
+        133,
+        91,
+        84
+      ],
+      "total": 550,
+      "source": "https://www.serebii.net/pokedex-champions/gholdengo/",
+      "group": "base"
+    },
+    {
+      "rank": 10,
+      "name": "ゴリランダー",
+      "form": "通常",
+      "slug": "rillaboom",
+      "stats": [
+        100,
+        125,
+        90,
+        60,
+        70,
+        85
+      ],
+      "total": 530,
+      "source": "https://www.serebii.net/pokedex-champions/rillaboom/",
+      "group": "base"
+    },
+    {
+      "rank": 11,
+      "name": "ミミッキュ",
+      "form": "通常",
+      "slug": "mimikyu",
+      "stats": [
+        55,
+        90,
+        80,
+        50,
+        105,
+        96
+      ],
+      "total": 476,
+      "source": "https://www.serebii.net/pokedex-champions/mimikyu/",
+      "group": "base"
+    },
+    {
+      "rank": 12,
+      "name": "マスカーニャ",
+      "form": "通常",
+      "slug": "meowscarada",
+      "stats": [
+        76,
+        110,
+        70,
+        81,
+        70,
+        123
+      ],
+      "total": 530,
+      "source": "https://www.serebii.net/pokedex-champions/meowscarada/",
+      "group": "base"
+    },
+    {
+      "rank": 13,
+      "name": "ギルガルド",
+      "form": "シールド",
+      "slug": "aegislash",
+      "stats": [
+        60,
+        50,
+        140,
+        50,
+        140,
+        60
+      ],
+      "total": 500,
+      "source": "https://www.serebii.net/pokedex-champions/aegislash/",
+      "group": "base"
+    },
+    {
+      "rank": 13,
+      "name": "ギルガルド",
+      "form": "ブレード",
+      "slug": "aegislash",
+      "stats": [
+        60,
+        140,
+        50,
+        140,
+        50,
+        60
+      ],
+      "total": 500,
+      "source": "https://www.serebii.net/pokedex-champions/aegislash/",
+      "group": "alternate"
+    },
+    {
+      "rank": 14,
+      "name": "ギャラドス",
+      "form": "通常",
+      "slug": "gyarados",
+      "stats": [
+        95,
+        125,
+        79,
+        60,
+        100,
+        81
+      ],
+      "total": 540,
+      "source": "https://www.serebii.net/pokedex-champions/gyarados/",
+      "group": "base"
+    },
+    {
+      "rank": 14,
+      "name": "ギャラドス",
+      "form": "メガ",
+      "slug": "gyarados",
+      "stats": [
+        95,
+        155,
+        109,
+        70,
+        130,
+        81
+      ],
+      "total": 640,
+      "source": "https://www.serebii.net/pokedex-champions/gyarados/",
+      "group": "alternate"
+    },
+    {
+      "rank": 15,
+      "name": "リザードン",
+      "form": "通常",
+      "slug": "charizard",
+      "stats": [
+        78,
+        84,
+        78,
+        109,
+        85,
+        100
+      ],
+      "total": 534,
+      "source": "https://www.serebii.net/pokedex-champions/charizard/",
+      "group": "base"
+    },
+    {
+      "rank": 15,
+      "name": "リザードン",
+      "form": "メガX",
+      "slug": "charizard",
+      "stats": [
+        78,
+        130,
+        111,
+        130,
+        85,
+        100
+      ],
+      "total": 634,
+      "source": "https://www.serebii.net/pokedex-champions/charizard/",
+      "group": "alternate"
+    },
+    {
+      "rank": 15,
+      "name": "リザードン",
+      "form": "メガY",
+      "slug": "charizard",
+      "stats": [
+        78,
+        104,
+        78,
+        159,
+        115,
+        100
+      ],
+      "total": 634,
+      "source": "https://www.serebii.net/pokedex-champions/charizard/",
+      "group": "alternate"
+    },
+    {
+      "rank": 16,
+      "name": "オオニューラ",
+      "form": "通常",
+      "slug": "sneasler",
+      "stats": [
+        80,
+        130,
+        60,
+        40,
+        80,
+        120
+      ],
+      "total": 510,
+      "source": "https://www.serebii.net/pokedex-champions/sneasler/",
+      "group": "base"
+    },
+    {
+      "rank": 17,
+      "name": "エースバーン",
+      "form": "通常",
+      "slug": "cinderace",
+      "stats": [
+        80,
+        116,
+        75,
+        65,
+        75,
+        119
+      ],
+      "total": 530,
+      "source": "https://www.serebii.net/pokedex-champions/cinderace/",
+      "group": "base"
+    },
+    {
+      "rank": 18,
+      "name": "キラフロル",
+      "form": "通常",
+      "slug": "glimmora",
+      "stats": [
+        83,
+        55,
+        90,
+        130,
+        81,
+        86
+      ],
+      "total": 525,
+      "source": "https://www.serebii.net/pokedex-champions/glimmora/",
+      "group": "base"
+    },
+    {
+      "rank": 18,
+      "name": "キラフロル",
+      "form": "メガ",
+      "slug": "glimmora",
+      "stats": [
+        83,
+        90,
+        105,
+        150,
+        96,
+        101
+      ],
+      "total": 625,
+      "source": "https://www.serebii.net/pokedex-champions/glimmora/",
+      "group": "alternate"
+    },
+    {
+      "rank": 19,
+      "name": "アーマーガア",
+      "form": "通常",
+      "slug": "corviknight",
+      "stats": [
+        98,
+        87,
+        105,
+        53,
+        85,
+        67
+      ],
+      "total": 495,
+      "source": "https://www.serebii.net/pokedex-champions/corviknight/",
+      "group": "base"
+    },
+    {
+      "rank": 20,
+      "name": "イダイトウ",
+      "form": "オス",
+      "slug": "basculegion",
+      "stats": [
+        120,
+        112,
+        65,
+        80,
+        75,
+        78
+      ],
+      "total": 530,
+      "source": "https://www.serebii.net/pokedex-champions/basculegion/",
+      "group": "base"
+    },
+    {
+      "rank": 28,
+      "name": "ウルガモス",
+      "form": "通常",
+      "slug": "volcarona",
+      "stats": [
+        85,
+        60,
+        65,
+        135,
+        105,
+        100
+      ],
+      "total": 550,
+      "source": "https://www.serebii.net/pokedex-champions/volcarona/",
+      "group": "base"
+    }
+  ]
+}
