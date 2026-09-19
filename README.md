@@ -1,19 +1,19 @@
 # ポケモン対戦ノート
 
-**チャンピオンズ／シングル／M-C ｜ 2026-09-18更新**
+**チャンピオンズ／シングル／M-C ｜ 2026-09-19更新**
 
 ## 今作る構築
 
-**[ドヒドイデ入りサイクル：6匹の全設定・選出・立ち回り](docs/toxapex-cycle.md)**
+**[メガルカリオZ構築：6匹の全設定・選出・立ち回り](docs/team-umbreon-c.md)**
 
-| ドヒドイデ | カバルドン | ヒートロトム |
+| メガルカリオZ | ゴリランダー | アシレーヌ |
 | :---: | :---: | :---: |
-| ![ドヒドイデ](assets/sprites/toxapex.png) | ![カバルドン](assets/sprites/hippowdon.png) | ![ヒートロトム](assets/sprites/rotom-heat.png) |
-| 再生力・特殊への受け先 | 物理受け・回復・ステロ | スカーフ・炎と電気 |
-| ![ボーマンダ](assets/sprites/salamence.png) | ![グソクムシャ](assets/sprites/golisopod.png) | ![サーフゴー](assets/sprites/gholdengo.png) |
-| ボーマンダ：メガ・竜舞・回復 | グソクムシャ：別メガ・交代・吸収 | サーフゴー：特殊の崩し・回復 |
+| ![ルカリオ](assets/sprites/lucario.png) | ![ゴリランダー](assets/sprites/rillaboom.png) | ![アシレーヌ](assets/sprites/primarina.png) |
+| 高速特殊エース | 草の先制技・交代 | 水・妖の特殊打点・交代 |
+| ![ブラッキー](assets/sprites/umbreon.png) | ![ボーマンダ](assets/sprites/salamence.png) | ![ヒートロトム](assets/sprites/rotom-heat.png) |
+| ブラッキー：ねがいごとで回復支援 | ボーマンダ：別メガ・竜舞・回復 | ヒートロトム：炎打点・スカーフ |
 
-元の6匹を維持した構築用資料です。性格の上昇・下降、特性、全ポイント、持ち物、4技、育成チェックを1ページに掲載。メガ枠は基本どちらか1匹を選出します。画像は通常姿の識別用。[画像出典](assets/CREDITS.md)
+基本選出は**ルカリオZ＋ゴリランダー＋アシレーヌ**から。相手に応じてブラッキー・ロトム・別メガのマンダを選ぶ。育成ページに性格の上昇下降・特性・全ポイント・持ち物・4技を全員分掲載しています。画像は通常姿の識別用。[画像出典](assets/CREDITS.md)
 
 ## 比較候補
 
@@ -23,7 +23,7 @@
 | --- | --- |
 | [ブラッキーA](docs/team-umbreon-a.md) | ブラッキー／グソクムシャ／ゴリランダー／アシレーヌ／ヒートロトム／サーフゴー |
 | [ブラッキーB](docs/team-umbreon-b.md) | ブラッキー／グソクムシャ／カバルドン／ゴリランダー／アシレーヌ／ヒートロトム |
-| [ブラッキーC](docs/team-umbreon-c.md) | ブラッキー／ルカリオZ／ゴリランダー／アシレーヌ／ボーマンダ／ヒートロトム |
+| [ドヒドイデサイクル](docs/toxapex-cycle.md) | ドヒドイデ／カバルドン／ヒートロトム／ボーマンダ／グソクムシャ／サーフゴー |
 
 [3案の違い・採用データ](docs/recovery-options.md)
 

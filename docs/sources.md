@@ -56,3 +56,7 @@
 
 - [グソクムシャ・M-6シングル](https://champs.pokedb.tokyo/pokemon/show/0768-00?season=6&rule=0)：ブラウザーで技・HA系配分・同時採用を確認。掲載値は[比較ページ](recovery-options.md)に記録。
 - [Serebiiのグソクムシャ](https://www.serebii.net/pokedex-champions/golisopod/)／[ブラッキー](https://www.serebii.net/pokedex-champions/umbreon/)：Championsの技とメガ後特性を確認。採用6匹の組み合わせ自体は独自の未検証案。
+
+## 2026-09-19：メガルカリオZ構築
+
+[Serebiiのルカリオ考察](https://www.serebii.net/potw-champions/448.shtml)のシングル欄を再確認。ゴリランダー・アシレーヌの補完を参考に、既存の案Cを育成対象へ。全配分・選出は[構築資料](team-umbreon-c.md)。記事と配分が違うため耐久計算は流用しない。
