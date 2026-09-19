@@ -20,6 +20,15 @@
 - [n8712：レート1800・勝率7割](https://yakkun.com/bbs/party/n8712)：9/12公開、9/15更新。ブリジュラスの性格訂正も確認。
 - [n8761：ゴリランダー軸・マスター到達](https://yakkun.com/bbs/party/n8761)：9/17公開。到達レート・最終順位は未確認。
 
+## 2026-09-19：エースバーンとウルガモス
+
+[候補3案・全設定・対策](cinderace-teams.md)に統合。
+
+- [DBエースバーンM-6シングル](https://champs.pokedb.tokyo/pokemon/show/0815-00?season=6&rule=0)：18位、技・リベロ・配分傾向。
+- [DBウルガモスM-6シングル](https://champs.pokedb.tokyo/pokemon/show/0637-00?season=6&rule=0)：27位、蝶舞・草打点・回復・HB型を確認。特定対戦帯の使用率ではない。
+- [Elninos公開レンタル](https://op.gg/pokemon-champions/replica-teams/4LY3DHALJ4)：9/16投稿、全6匹のポイント・技・IDを英語表示でも照合。タイトルのChampion Tierは投稿者申告で未検証。
+- [aoiの8連勝構築](https://pokesol.app/u/aoi_pokemon227/articles/d7b7bf3134b37e3d)：9/10公開。初期版の全6匹設定、改良追記、ID未掲載を確認。
+
 ## 過去の調査で参照した出典
 
 
