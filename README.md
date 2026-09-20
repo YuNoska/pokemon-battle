@@ -21,6 +21,10 @@
 
 **[画像を参考にした3案：エースバーン・エンペルト・ギャラドス・ラグラージ](docs/starter-water-candidates.md)** — 4匹同時採用／威嚇サイクル／画像2の6匹。全員の育成設定と選出。
 
+**[セグレイブ：剣舞＋再起／回復サイクル／国内海外比較](docs/baxcalibur-teams.md)**
+
+**[全構築の一覧](docs/team-catalog.md)** ｜ **[セグレイブ一枚資料PDF（各案1ページ）](output/pdf/baxcalibur-team-sheets.pdf)**
+
 ## 比較候補
 
 今作る構築とは別の選択肢です。各ページに重複も省かず6匹全員の設定があります。
