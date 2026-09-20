@@ -23,7 +23,7 @@
 
 **[セグレイブ：剣舞＋再起／回復サイクル／国内海外比較](docs/baxcalibur-teams.md)**
 
-**[全構築の一覧](docs/team-catalog.md)** ｜ **[セグレイブ一枚資料PDF（各案1ページ）](output/pdf/baxcalibur-team-sheets.pdf)**
+**[全構築の一覧](docs/team-catalog.md)** ｜ **[セグレイブ一枚資料PDF（各案1ページ）](docs/baxcalibur-team-sheets.pdf)**
 
 ## 比較候補
 

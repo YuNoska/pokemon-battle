@@ -1,6 +1,6 @@
 # セグレイブ構築：再起・回復サイクル・国内海外の公開例
 
-[トップ](../README.md) ｜ [全構築の一覧](team-catalog.md) ｜ [一枚資料PDF：各案1ページ](../output/pdf/baxcalibur-team-sheets.pdf)
+[トップ](../README.md) ｜ [全構築の一覧](team-catalog.md) ｜ [一枚資料PDF：各案1ページ](baxcalibur-team-sheets.pdf)
 
 **2026-09-20／Champions・M-Cシングル。** 添付の使い方を試すならA、これまでの回復・サイクルの好みならB。全18枠を省略せず掲載。新案の実戦勝率と全対面のダメージは未検証です。現在の育成対象はREADMEで管理します。
 

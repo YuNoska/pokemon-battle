@@ -10,7 +10,7 @@ ROOT=Path(__file__).resolve().parents[1]
 font='/System/Library/Fonts/Supplemental/Arial Unicode.ttf'
 pdfmetrics.registerFont(TTFont('JP',font))
 W,H=landscape(A4)
-output=ROOT/'output/pdf/baxcalibur-team-sheets.pdf';output.parent.mkdir(parents=True,exist_ok=True)
+output=ROOT/'docs/baxcalibur-team-sheets.pdf';output.parent.mkdir(parents=True,exist_ok=True)
 c=canvas.Canvas(str(output),pagesize=(W,H));c.setTitle('セグレイブ構築・一枚資料 / 2026-09-20')
 data=json.loads((ROOT/'data/baxcalibur-teams-2026-09-20.json').read_text())
 def txt(x,y,s,size=10,color='#24384B'):
